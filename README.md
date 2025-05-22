@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 | Halaman              | Screenshot                                   |  Deskripsi                                             |
 |----------------------|----------------------------------------------|--------------------------------------------------------|
 | home page  |  ![homepage](https://github.com/user-attachments/assets/75bd1b55-8429-4bd4-b117-a4d95fd02289)|        |
-| profile |  ![profile](https://github.com/user-attachments/assets/4212a813-e11e-4c66-9ee3-07a3ab1fb4ca) |   |
+| profile | ![prfl](https://github.com/user-attachments/assets/779485f1-1934-481c-890a-330abba54a2b)|   |
 | picture page | ![photo](https://github.com/user-attachments/assets/fa9e0c99-4974-45f6-b453-b06aa9860d9d) |   |
 | picture page | ![photo2](https://github.com/user-attachments/assets/4154d696-bb29-4d52-9c24-5cb8246c7c59)|   |
 | location page |![location](https://github.com/user-attachments/assets/d712209b-1930-4d54-b19b-fd594b5a6b35)|   |
